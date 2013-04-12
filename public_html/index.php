@@ -427,11 +427,15 @@
                 </a></p>
                 -->
             </div>
+
+            <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
             <div id="pixelincloud" class="grid_16">
                 <a href="http://pixelincloud.com" href="_blank">
                     <img src="/img/pic-footer.png"/>
                 </a>
             </div>
+            <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
+
         </div>
     </body>
 </html>

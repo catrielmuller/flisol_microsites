@@ -12,5 +12,7 @@ Requisitos
 Importar el attendees.sql en tu base de datos.
 Todos los parametros de configuración se modifican desde el config.php
 
+Se Agradece mantener la Autoria de Pixel in Cloud
+
 
 Catriel Müller / Pixel in Cloud - http://pixelincloud.com
