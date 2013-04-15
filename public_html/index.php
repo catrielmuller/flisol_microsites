@@ -406,7 +406,7 @@
 
         <div id="footer" class="container_16">
             <div class="left grid_4">
-                <p>Seguinos: 
+                <p>Seguínos: 
         <a class="slink" href="<?php echo $contacto_gplus ?>" target="_blank">
                     <img src="img/flisol_12.png">
                 </a>
