@@ -15,7 +15,7 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: #4E4E4E;
 }
 
 body {
@@ -283,6 +283,7 @@ p.big {
 #map {
     width: 740px;
     height: 300px;
+    border: 1px solid rgb(219, 219, 219);
 }
 
 .hora {
@@ -311,6 +312,7 @@ h4 {
     color: #ffffff;
     font-family: 'Ubuntu';
     font-size: 0.8em;
+    padding-top: 10px;
 }
 
 .bold {
@@ -319,6 +321,24 @@ h4 {
 
 #footer .slink {
     margin: 0px 5px;
+}
+
+#footer .left {
+    padding-top: 10px;
+}
+
+#footer .center {
+    text-align: center;
+}
+
+#footer .right {
+    text-align: right;
+}
+
+#footer p {
+    margin-bottom: 3px;
+    margin-top: 3px;
+    color: #c5c5c5;
 }
 
 .reg-page {
@@ -449,8 +469,8 @@ h4 {
 }
 
 #pixelincloud {
-    text-align: center;
-    margin: 10px 0px; 
+    text-align: right;
+    margin: 25px 25px; 
 }
 
 /* ==========================================================================

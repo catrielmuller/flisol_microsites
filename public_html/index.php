@@ -405,18 +405,9 @@
         </div>
 
         <div id="footer" class="container_16">
-            <div class="grid_5">
-                <p><span class="bold">Contacto:</span></p>
-            </div>
-            <div class="grid_4">
-                <p>Tel: <?php echo $contacto_tel ?></p>
-            </div>
-            <div class="grid_4">
-                <p>E-Mail: <?php echo $contacto_email ?></p>
-            </div>
-            <div class="grid_3">
-                <!--
-                <p>Síguenos: <a class="slink" href="<?php echo $contacto_gplus ?>" target="_blank">
+            <div class="left grid_4">
+                <p>Seguinos: 
+        <a class="slink" href="<?php echo $contacto_gplus ?>" target="_blank">
                     <img src="img/flisol_12.png">
                 </a>
                 <a class="slink" href="<?php echo $contacto_facebook ?>" target="_blank">
@@ -425,17 +416,24 @@
                 <a class="slink"href="<?php echo $contacto_twitter ?>" target="_blank">
                     <img src="img/flisol_16.png">
                 </a></p>
-                -->
+                <p>Tel: <?php echo $contacto_tel ?></p>
+                <p>E-Mail: <?php echo $contacto_email ?></p>
             </div>
-
-            <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
-            <div id="pixelincloud" class="grid_16">
-                <a href="http://pixelincloud.com" href="_blank">
-                    <img src="/img/pic-footer.png"/>
-                </a>
+            <div class="center grid_8">
+                <p><img src="/img/footer-logo.png"/></p>
+                <p>Festival Latinoamericano de Instalación de Software Libre</p>
             </div>
-            <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
-
+            <div class="right grid_4">
+                <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
+                <div id="pixelincloud">
+                    <a href="http://pixelincloud.com" href="_blank">
+                        <img src="/img/pic-footer.png"/>
+                    </a>
+                </div>
+                <!-- Se Agradece mantener la Autoria de Pixel in Cloud -->
+            </div>
+            
         </div>
+
     </body>
 </html>
